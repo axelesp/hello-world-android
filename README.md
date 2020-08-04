@@ -1,2 +1,3 @@
 # hello-world-android
-My first respostory with Android Project
+
+I am learning to use GitHub with a project of an Android Studio course.
